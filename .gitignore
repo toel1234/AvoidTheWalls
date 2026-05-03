@@ -32,4 +32,6 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
-[Dd]esktop.ini
+[Dd]esktop.iniAssets/
+ProjectSettings/
+avoid_the_walls/target/
